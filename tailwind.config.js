@@ -7,8 +7,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#8B5CF6',
+        primary: '#2563EB',
         secondary: '#3B82F6',
+      },
+      fontWeight: {
+        '500': '500',
+        '600': '600',
+        '700': '700',
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
